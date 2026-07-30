@@ -88,22 +88,13 @@ The dashboard is created using an **E-Commerce Orders Dataset** containing infor
 
 
 📷 Dashboard Preview
+<img width="1372" height="775" alt="image (1)" src="https://github.com/user-attachments/assets/eca8bf50-f6e5-49c9-b90b-bf368a8f48b4" />
 
-> Add a screenshot of your dashboard here.
 
-Example:
 
-```
-images/dashboard.png
-```
 
-or
 
-```
-Dashboard.png
-```
 
----
 
  📁 Repository Structure
 
